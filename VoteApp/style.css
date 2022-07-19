@@ -1,0 +1,10 @@
+#container{
+    border-radius: 35px;
+    height: 1000px;
+    width: 60px;
+    background-color: grey;
+}
+.h1{
+    font-size: medium;
+    margin-top: 40%;
+}
